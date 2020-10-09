@@ -4,15 +4,15 @@
 
 Submitted by: **Shulamith Dashevsky**
 
-Time spent: **3** hours spent in total
+Time spent: **8-9** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
 * [x] User can **view a list of todo items**
-* [ ] User can **successfully add and remove items** from the todo list
-* [n] User's **list of items persisted** upon modification and and retrieved properly on app restart
+* [X] User can **successfully add and remove items** from the todo list
+* [X] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 The following **optional** features are implemented:
 
@@ -35,6 +35,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Describe any challenges encountered while building the app.
  -> Changing the default layout setting to relative layout as suggested in the video did not allow me to drag items where I wanted.
  -> Several functions and parameters names have been outdated in tutorial. Was able to fix quickly. 
+ -> Was unable to edit text because a view was on top of it (spent several hours)
+ -> Debugging variable names (30 minutes)
 
 ## License
 
